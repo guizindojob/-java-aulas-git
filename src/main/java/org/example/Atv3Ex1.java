@@ -14,7 +14,7 @@ public class Atv3Ex1 {
             soma += x;
         }
 
-        System.out.println("O somatório é: " + soma);
+        System.out.println("O somatório deu: " + soma);
         scanner.close();
     }
 }
